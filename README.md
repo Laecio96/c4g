@@ -3,7 +3,7 @@
 <h2><p align="center">Projeto 100% gratuito !<br>Não compre de ninguém !</p></h2>
 
 <br><br><center>
-<img src="https://i.ibb.co/Wp4DBBk/painel-4g.png">
+<img src="https://i.ibb.co/vw0kcdK/painel-4g.png">
 </center>
 
 <br><br>
@@ -45,9 +45,9 @@
 <li>Para alterar o titulo do painel edite o arquivo: <b>config.php</b></li>
 </ol><br>
 <h3>☑️ Outros</h3> <br>
-Para informar bugs e sugestões: https://t.me/Davidsdy <br>
+Para informar bugs e sugestões: https://t.me/MetaSploit_X64BiT <br>
 
 <h3>☑️ Descompactar zip</h3> <br>
-https://raw.githubusercontent.com/Davidsdy/Arquivos-isolados/main/zip.php
+https://raw.githubusercontent.com/Laecio96/Arquivos-isolados/main/zip.php
 
 
